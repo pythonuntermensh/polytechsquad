@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664663295038
+  login: 1664663252236
+money: '0'
+last-account-name: Moxem2
+lastlocation:
+  world: 8a0b0da0-5ca6-414a-acf0-9f01a41157e4
+  world-name: world
+  x: 172.5
+  y: 70.0
+  z: 253.5
+  yaw: 0.9089332818984985
+  pitch: 0.0
+logoutlocation:
+  world: 8a0b0da0-5ca6-414a-acf0-9f01a41157e4
+  world-name: world
+  x: 189.5284978814768
+  y: 66.0
+  z: 266.5573750219738
+  yaw: 70.05072021484375
+  pitch: 16.50015640258789
