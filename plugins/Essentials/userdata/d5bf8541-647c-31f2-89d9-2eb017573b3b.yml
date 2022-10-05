@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.0.121.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664914352376
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664907249701
+  login: 1664907266846
+money: '0'
+last-account-name: L1nk
+homes:
+  home:
+    world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+    world-name: world
+    x: -1018.8115431386884
+    y: 68.0
+    z: 1454.7395503453938
+    yaw: 266.4111328125
+    pitch: 20.578157424926758
+lastlocation:
+  world: 7529a615-20db-43ac-a08c-ec064d3f0235
+  world-name: DIM-1
+  x: -137.86982870344283
+  y: 81.0
+  z: 192.76053480631043
+  yaw: 230.88987731933594
+  pitch: 12.854354858398438
+logoutlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -1020.6210886012744
+  y: 68.0
+  z: 1453.0356077419933
+  yaw: 318.4326171875
+  pitch: 46.764339447021484

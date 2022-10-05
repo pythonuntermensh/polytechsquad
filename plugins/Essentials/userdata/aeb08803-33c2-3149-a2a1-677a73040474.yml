@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.249.27.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664915638842
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664898543431
+  login: 1664907083613
+money: '0'
+last-account-name: ku11ch
+lastlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -1152.300000011921
+  y: 10.0
+  z: 1601.6150041881012
+  yaw: -170.75006103515625
+  pitch: 32.09992218017578
+logoutlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -1006.5361476083946
+  y: 70.0
+  z: 1626.2885820870865
+  yaw: -76.1845703125
+  pitch: 7.350056171417236
+homes:
+  home:
+    world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+    world-name: world
+    x: -1003.5
+    y: 75.0
+    z: 1626.8586252055422
+    yaw: -185.9019317626953
+    pitch: 2.554007053375244

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: true
 muted: false
 jailed: false
-ip-address: 192.168.0.106
+ip-address: 46.0.115.37
 afk: false
 socialspy: false
 npc: false
@@ -11,37 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1664698111623
+  lastteleport: 1664888243011
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1664707678977
-  login: 1664707558356
+  logout: 1664889659772
+  login: 1664889445707
 money: '0'
 last-account-name: Moxem
 lastlocation:
-  world: 65a5bb16-49b1-4ba6-a2b6-532533a8d412
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
   world-name: world
-  x: 28.487389515380805
-  y: 81.0
-  z: 95.75958603358843
-  yaw: 210.89788818359375
-  pitch: 61.950050354003906
+  x: -1834.016535306709
+  y: 64.0
+  z: 1576.2686977438375
+  yaw: 78.62826538085938
+  pitch: 27.300148010253906
 logoutlocation:
-  world: 65a5bb16-49b1-4ba6-a2b6-532533a8d412
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
   world-name: world
-  x: -57.82886153727214
-  y: 63.0
-  z: 321.51695109316415
-  yaw: 157.49789428710938
-  pitch: 25.949979782104492
+  x: -636.5831609435286
+  y: 75.1797414662379
+  z: 1148.4365798925407
+  yaw: 32.377315521240234
+  pitch: 29.551485061645508
 homes:
   home:
-    world: 65a5bb16-49b1-4ba6-a2b6-532533a8d412
+    world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
     world-name: world
-    x: 132.60634296056352
-    y: 69.0
-    z: 217.24036156968236
-    yaw: 14.24923324584961
-    pitch: 17.99998664855957
+    x: -1528.9805888464227
+    y: 64.0
+    z: 1918.6064184767022
+    yaw: -214.7935333251953
+    pitch: 19.649974822998047

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.124.201.0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664914056747
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664903237050
+  login: 1664907082458
+money: '0'
+last-account-name: ZhuyCactus
+lastlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -1247.6515406566054
+  y: 13.0
+  z: 2055.296035932302
+  yaw: -295.9690856933594
+  pitch: 3.6681385040283203
+homes:
+  home:
+    world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+    world-name: world
+    x: -1047.689488809248
+    y: 69.0
+    z: 1551.2599949489954
+    yaw: -182.833984375
+    pitch: 14.470891952514648
+logoutlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -996.5969382062453
+  y: 64.0
+  z: 1481.3146605307702
+  yaw: -85.33716583251953
+  pitch: 19.307270050048828
