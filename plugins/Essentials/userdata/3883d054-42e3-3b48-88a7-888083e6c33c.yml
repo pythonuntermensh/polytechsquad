@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.164.161.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664824506564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664827090350
+  login: 1664823180255
+money: '0'
+last-account-name: filyq
+lastlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -525.8364298986573
+  y: 47.534059980212035
+  z: 3071.819322857539
+  yaw: -191.6007080078125
+  pitch: 1.1517318487167358
+homes:
+  home:
+    world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+    world-name: world
+    x: -898.8365529972369
+    y: 63.0
+    z: 1339.5057996854614
+    yaw: -183.498046875
+    pitch: 25.139633178710938
+logoutlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -907.0985630666675
+  y: 63.0
+  z: 1312.6448061440083
+  yaw: -26.25341796875
+  pitch: 25.073461532592773

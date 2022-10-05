@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.231.136.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664915574048
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664872501991
+  login: 1664910158499
+money: '0'
+last-account-name: приборхуй
+homes:
+  home:
+    world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+    world-name: world
+    x: -999.9969693529941
+    y: 60.0
+    z: 1507.527758441505
+    yaw: 261.96337890625
+    pitch: 13.650065422058105
+logoutlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -1003.7778767247399
+  y: 60.0
+  z: 1503.4887956674618
+  yaw: 328.800537109375
+  pitch: 16.799957275390625
+lastlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -992.9050092473626
+  y: 72.77275928776004
+  z: 1511.5013274681621
+  yaw: 313.262451171875
+  pitch: 71.25009155273438

@@ -1,6 +1,22 @@
 [
   {
+    "uuid": "1f80c23d-ec18-317e-bf20-969b71a028dc",
+    "name": "zhuycactus"
+  },
+  {
+    "uuid": "49cd7a22-a9b3-4245-bf24-a16899767842",
+    "name": "l1nk"
+  },
+  {
+    "uuid": "15c3d1a0-aff1-36a4-b158-070da16c2579",
+    "name": "приборхуй"
+  },
+  {
     "uuid": "f618d04e-2ac2-3027-ac06-271eee30407d",
     "name": "Moxem"
+  },
+  {
+    "uuid": "607b461e-6855-444b-a595-c6281a22f140",
+    "name": "fantomas"
   }
 ]

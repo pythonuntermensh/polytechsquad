@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.164.164.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664915399468
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664885856727
+  login: 1664911218298
+money: '0'
+last-account-name: Rister
+lastlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -1842.6244175881645
+  y: 64.0
+  z: 1575.3882537362272
+  yaw: -145.3223876953125
+  pitch: 14.999979972839355
+homes:
+  home:
+    world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+    world-name: world
+    x: -4361.7994919538105
+    y: 72.0
+    z: 2045.9104258279733
+    yaw: -8.334808349609375
+    pitch: 40.313541412353516
+logoutlocation:
+  world: 1ad6eeae-5e2f-4da9-a6e3-9b6a58a4e6ae
+  world-name: world
+  x: -1026.8946833509553
+  y: 50.0
+  z: 1524.7181341671899
+  yaw: -8.877964973449707
+  pitch: 6.300016403198242
